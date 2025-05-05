@@ -1,0 +1,6 @@
+{
+  "name": "main",
+  "dependencies": {
+    "@dataform/core": "3.0.0-beta.0"
+  }
+}
